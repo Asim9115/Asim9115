@@ -3,8 +3,8 @@
   <h3>Backend-Focused Computer Engineering Student | Django • DRF • AI Integration</h3>
 
   <p>
-    <a href="mailto:23co26@gmail.com">23co26@gmail.com</a> • 
-    <a href="https://linkedin.com/in/asim-khan">LinkedIn</a> • 
+    <a href="mailto:khanasimali20@gmail.com">khanasimali20@gmail.com</a> • 
+    <a href="https://www.linkedin.com/in/asim-khan-2746062bb/">LinkedIn</a> • 
     <a href="https://github.com/Asim9115">GitHub</a>
   </p>
 
@@ -42,7 +42,7 @@ Node.js • Firebase • Gemini LLMs • HeyGen API • Render
 Engineered real-time AI avatar mock interviews using HeyGen API.  
 Built resume analysis system with Gemini LLMs for personalized feedback and skill-gap insights.  
 Deployed on Render with Firebase backend.  
-*(Repo + live link coming soon)*
+**Live Demo**: [https://preporbit.vercel.app/](https://preporbit.vercel.app/)
 
 **Stock Market Simulator**  
 React.js • Node.js • Django REST Framework • PostgreSQL  
