@@ -1,65 +1,74 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Asim Khan</h1>
-  <h3>Aspiring Full-Stack / Backend Developer from Mumbai, India</h3>
-  
-  <!-- Badges / stats (optional but cool) -->
+  <h1>👋 Hi, I'm Asim Khan</h1>
+  <h3>Backend-Focused Computer Engineering Student | Django • DRF • AI Integration</h3>
+
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
+    <a href="mailto:23co26@gmail.com">23co26@gmail.com</a> • 
+    <a href="https://linkedin.com/in/asim-khan">LinkedIn</a> • 
+    <a href="https://github.com/Asim9115">GitHub</a>
   </p>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white" />
 </div>
 
-<!-- About section -->
-I'm a passionate developer currently exploring **web development**, automation tools, and clean code practices.  
-I love turning messy problems into organized solutions — whether it's sorting files or building booking systems.
+---
 
-### 🔧 Technologies & Tools
-- **Languages**: Python • Java • PHP • JavaScript  
-- **Frameworks**: Django / Django REST Framework  
-- **Other**: Git, HTML/CSS, file automation, basic web apps
+**Backend developer** with hands-on experience building scalable web apps using **Django, REST APIs, and PostgreSQL**.  
+Proven ability to integrate **AI-driven features** (Gemini, HeyGen) and optimize backend workflows. Seeking opportunities to contribute to high-impact systems.
+
+### 🛠️ Technical Skills
+- **Languages**: Python • JavaScript • SQL • C
+- **Backend**: Django • Django REST Framework (DRF) • RESTful APIs
+- **Databases**: PostgreSQL • MySQL
+- **Tools & DevOps**: Git • Docker • Postman • AWS
+- **Concepts**: API Design • Database Optimization • Authentication • MVC Architecture • AI Integration
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Asim9115/Pysorter">Pysorter</a> ★</td>
-    <td>Lightweight auto file sorter — organizes downloads/folders by type, date, or rules</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Asim9115/Seminar-Booking">Seminar Booking</a></td>
-    <td>Web-based seminar/event booking system</td>
-    <td>PHP</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Asim9115/CPGA-PERCENTAGE-Converter">CPGA Percentage Converter</a></td>
-    <td>Simple tool to convert CGPA ↔ Percentage (student utility)</td>
-    <td>Java</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Asim9115/Django-Rest-Framework">Django REST Experiments</a></td>
-    <td>Learning & testing Django REST Framework APIs</td>
-    <td>Django • JavaScript</td>
-  </tr>
-</table>
+**YouTube Shorts Analyzer**  
+Django • YouTube API • Gemini AI • MoviePy  
+Built a Django web app that analyzes long YouTube videos and auto-generates Shorts using AI timestamps.  
+Integrated YouTube API + Gemini for highlight detection • MoviePy for video trimming & export.  
+*(Repo + demo coming soon — currently deployed)*
 
-### 🌱 What I'm working on next
-- Building more complete full-stack apps (Django + React?)
-- Improving Pysorter with GUI / CLI options
-- Learning Docker & deployment basics
+**PrepOrbit – AI Career Platform**  
+Node.js • Firebase • Gemini LLMs • HeyGen API • Render  
+Engineered real-time AI avatar mock interviews using HeyGen API.  
+Built resume analysis system with Gemini LLMs for personalized feedback and skill-gap insights.  
+Deployed on Render with Firebase backend.  
+*(Repo + live link coming soon)*
 
-📫 Reach me:  
-• **Email**: (add your email)  
-• **LinkedIn**: (add link)  
-• **Twitter/X**: (add handle if any)
+**Stock Market Simulator**  
+React.js • Node.js • Django REST Framework • PostgreSQL  
+Full-stack trading simulator with virtual currency, real-time portfolio tracking, and concurrent transactions.  
+Designed DRF APIs for portfolio management, auth & transactions • React frontend for charts & history.  
+Optimized database queries for scalability.  
+*(Repo + live demo coming soon)*
 
-Thanks for stopping by! Let's connect if you're into Python, web dev, or just want to chat code. 🚀
+### Other Projects & Learning
+- Pysorter (Python file automation tool)
+- Seminar Booking System (PHP)
+- CPGA Percentage Converter (Java)
+- GoClouded (React + Vite frontend starter)
+
+### Education
+**B.E. Computer Engineering** (CGPA 8.8/10)  
+Anjuman-I-Islam’s Kalsekar Technical Campus (2023 – 2027)  
+Relevant courses: DBMS, Data Structures, Algorithms, Operating Systems, Web Technologies
+
+### Certifications
+- Backend Development with Django – Udemy (2025)
+- AWS Cloud Technical Essentials – Coursera (2025)
+- Fundamentals of Machine Learning – AIKTC (2024)
+
+---
+
+**Thanks for visiting!**  
+Open to backend internships, AI projects, or full-stack roles.  
+Let’s connect — always happy to chat about Django, AI integration, or cloud deployments! 🚀
